@@ -13,3 +13,7 @@ my wallpaper collection
 
 ![archlinux with cat](2560x1440/archlinux_with_cats_2560x1440.png)
 
+
+# licence
+You must be who usually loves and usually uses archlinux. So you can use those images as wallpapers.
+Well, "usually" is important.
